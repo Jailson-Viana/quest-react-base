@@ -1,0 +1,15 @@
+.button-btn{
+    background-color:darkgoldenrod;
+    border: 1px solid red;
+    font-size: 40px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.button-btn:hover {
+    background-color: royalblue;
+    border: 1px solid #000;
+}
