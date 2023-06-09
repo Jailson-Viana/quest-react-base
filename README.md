@@ -6,5 +6,3 @@
 
 ## Desafio 2:
 [Criar um botão que mostra como um Alert, a lebel do botão é:]
-
-![imagem](src/imagem-1.png)
